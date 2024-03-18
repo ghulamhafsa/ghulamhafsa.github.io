@@ -1,0 +1,229 @@
+*{
+
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline:none ;
+    text-transform: capitalize;
+    transition: all .2s linear;
+} 
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background:rgb(50, 50, 50);
+    padding: 1rem 7%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+
+header .logo img{
+    height:60px;
+    width: 60px;
+}
+
+header .navbar a
+{
+   font-size: medium;
+   padding: 5px 15px;
+   color: #cdaa7c;
+   border: 2px solid transparent;
+}
+
+header .navbar a.active,
+header .navbar a:hover
+{
+    color:#fff;
+    border: 2px solid rgba(205,170,124,0.2);
+}
+header .icons i
+{
+   cursor: pointer;
+   margin-left:5px ;
+   height: 30px;
+   width: 30px;
+   line-height: 30px;
+   background: #cdaa7c;
+   text-align: center;
+   font-size: medium;
+   color:#fff;
+}
+
+header .icons i:hover{
+    color: #fff;
+    background-color: #cdaa7c;
+    transform: rotate(360deg);
+}
+
+  
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 1px;
+    background-color:#9a7b56;
+    height: 100%;
+    width: 100%;
+}
+
+.intro1, .intro2{
+    width: 50%;
+}
+.intro2{
+    color: rgb(13, 13, 13);
+    text-align: center;
+    font-size: 17px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.intro1{
+    color: #0c0c0c;
+    font-size: 35px;
+    font-family:"Brush Script MT", cursive;
+    padding-left: 85px;
+}
+
+.container2{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 16px;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+.container2 p{
+    font-family:"Brush Script MT", cursive;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+ul{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+
+}
+h1{
+    color: #1f2b21;
+    padding-left: 75px;
+    padding-bottom: 40px;
+    font-size: 80px;
+    font-family:"Brush Script MT", cursive;
+}
+
+h2{
+    color: #0f0f0f;
+    font-size: 60px;
+    font-family:"Brush Script MT", cursive;
+    padding-left: 85px;
+}
+.box1{
+    padding-left: 35px;
+    width: 50%;
+    padding-bottom: 10px;
+}
+.box2{
+    padding-left: 180px;
+    width: 50%;
+}
+.container3{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    height: 100%;
+    width: 100%;
+}
+.container4{
+    background-color: #9a7b56;
+    display: block;
+    justify-content: space-between;
+    padding-top: 30px;
+    height: 100%;
+    width: 100%;
+}
+.cont{
+    color: white;
+    display: flex;
+    text-align: center;
+    padding-right: 110px;
+    margin: 3px;
+}
+.container4 div {
+    font-size: large;
+    padding: 50px;
+
+}
+input[type="submit"]
+{
+    background-color: #0e0d0d;
+    padding: 6px 14px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+   color: #fff;
+
+}
+
+
+.image-container {
+    position: relative;
+    max-width: 100%;
+  }
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+  .text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 85px;
+    font-family:"Brush Script MT", cursive;
+    text-align: center;
+  }
+
+.container5{
+    background-color: #9a7b56;
+    display: block;
+    justify-content: space-between;
+    padding-top: 30px;
+    height: 100%;
+    width: 100%;
+}
+.container5 h3{
+    font-family:"Brush Script MT", cursive;
+    font-size: 55px;
+}
+
+.container5 h4{
+    padding-bottom: 28px;
+    font-size: 30px;
+}
+.cont1{
+    color: black;
+    display: flex;
+    text-align: center;
+    margin: 3px;
+}
+.container5 div {
+    font-size: 25px;
+    padding: 60px;
+
+}
