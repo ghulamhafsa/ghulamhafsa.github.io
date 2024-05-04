@@ -9,53 +9,183 @@
 
 <url>
   <loc>https://mamaskitchen.me/</loc>
-  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://mamaskitchen.me/index.html</loc>
-  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mamaskitchen.me/about.html</loc>
-  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mamaskitchen.me/service.html</loc>
-  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mamaskitchen.me/menu.html</loc>
-  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mamaskitchen.me/booking.html</loc>
-  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mamaskitchen.me/team.html</loc>
-  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mamaskitchen.me/testimonial.html</loc>
-  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mamaskitchen.me/contact.html</loc>
-  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://mamaskitchen.me/chef.html</loc>
-  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
-  <priority>0.64</priority>
+  <loc>https://mamaskitchen.me/payee.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/bong.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/naihari.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/naan.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/paratha.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/andachanay.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/haleem.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/halwapuri.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/pathoory.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/muffins.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/Cburger.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/wraps.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/RingSpaghetti.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/alfaredo.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/Cbuns.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/sspeghatti.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/minipizza.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/lasagna.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/Csteak.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/sPizza.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/rolls.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/champ.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/wings.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/bbqTikka.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/kabab.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/biryani.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/kachoomar.html</loc>
+  <lastmod>2024-05-04T11:31:10+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
