@@ -9,33 +9,53 @@
 
 <url>
   <loc>https://mamaskitchen.me/</loc>
-  <lastmod>2024-03-17T20:05:27+00:00</lastmod>
+  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://mamaskitchen.me/index.html</loc>
-  <lastmod>2024-03-17T20:05:27+00:00</lastmod>
+  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mamaskitchen.me/about.html</loc>
-  <lastmod>2024-03-17T20:05:27+00:00</lastmod>
+  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/service.html</loc>
+  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mamaskitchen.me/menu.html</loc>
-  <lastmod>2024-03-17T20:05:27+00:00</lastmod>
+  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/booking.html</loc>
+  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/team.html</loc>
+  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/testimonial.html</loc>
+  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mamaskitchen.me/contact.html</loc>
+  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://mamaskitchen.me/chef.html</loc>
-  <lastmod>2024-03-17T20:05:27+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://mamaskitchen.me/portfolio.html</loc>
-  <lastmod>2024-03-17T20:05:27+00:00</lastmod>
-  <priority>0.80</priority>
+  <lastmod>2024-04-02T05:49:09+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
